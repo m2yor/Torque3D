@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+I:/Program Files/CMake/share/cmake-3.14/Modules/CMakeCInformation.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CMakeCXXInformation.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CMakeCommonLanguageInclude.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CMakeGenericSystem.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CMakeInitializeConfigs.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CMakeLanguageInformation.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CMakeRCInformation.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CMakeSystemSpecificInformation.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CMakeSystemSpecificInitialize.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/Compiler/MSVC-C.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/Compiler/MSVC-CXX.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/Platform/Windows-MSVC-C.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/Platform/Windows-MSVC-CXX.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/Platform/Windows-MSVC.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/Platform/Windows.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/Platform/WindowsPaths.cmake
+I:/git/T3D/Torque3D/CMakeLists.txt
+I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/3.14.0/CMakeCCompiler.cmake
+I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/3.14.0/CMakeCXXCompiler.cmake
+I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/3.14.0/CMakeRCCompiler.cmake
+I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/3.14.0/CMakeSystem.cmake

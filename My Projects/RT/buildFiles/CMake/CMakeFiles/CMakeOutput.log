@@ -1,0 +1,1022 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine ���ᨨ 15.9.21+g9802d43bc3 ��� .NET Framework
+(C) ��௮��� �������� (Microsoft Corporation). �� �ࠢ� ���饭�.
+
+���ઠ ���� 15.03.2019 0:01:49.
+�஥�� "I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\3.14.0\CompilerIdC\CompilerIdC.vcxproj" � 㧫� 1 (楫��� ��ꥪ�� �� 㬮�砭��).
+PrepareForBuild:
+  �������� ��⠫��� "Debug\".
+  �������� ��⠫��� "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  �������� "Debug\CompilerIdC.tlog\unsuccessfulbuild", ⠪ ��� �뫮 ������ "AlwaysCreate".
+ClCompile:
+  I:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  I:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\3.14.0\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=I:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x64\cl.exe
+FinalizeBuildStatus:
+  ���� "Debug\CompilerIdC.tlog\unsuccessfulbuild" 㤠�����.
+  ���饭�� � "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+���ઠ �஥�� "I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\3.14.0\CompilerIdC\CompilerIdC.vcxproj" �����襭� (楫��� ��ꥪ�� �� 㬮�砭��).
+
+���ઠ �ᯥ譮 �����襭�.
+    �।�०�����: 0
+    �訡��: 0
+
+��諮 �६��� 00:00:03.08
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/3.14.0/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine ���ᨨ 15.9.21+g9802d43bc3 ��� .NET Framework
+(C) ��௮��� �������� (Microsoft Corporation). �� �ࠢ� ���饭�.
+
+���ઠ ���� 15.03.2019 0:01:53.
+�஥�� "I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\3.14.0\CompilerIdCXX\CompilerIdCXX.vcxproj" � 㧫� 1 (楫��� ��ꥪ�� �� 㬮�砭��).
+PrepareForBuild:
+  �������� ��⠫��� "Debug\".
+  �������� ��⠫��� "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  �������� "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", ⠪ ��� �뫮 ������ "AlwaysCreate".
+ClCompile:
+  I:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  I:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\3.14.0\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=I:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x64\cl.exe
+FinalizeBuildStatus:
+  ���� "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" 㤠�����.
+  ���饭�� � "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+���ઠ �஥�� "I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\3.14.0\CompilerIdCXX\CompilerIdCXX.vcxproj" �����襭� (楫��� ��ꥪ�� �� 㬮�砭��).
+
+���ઠ �ᯥ譮 �����襭�.
+    �।�०�����: 0
+    �訡��: 0
+
+��諮 �६��� 00:00:02.35
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/3.14.0/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_73938.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27026.1 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  testCCompiler.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_73938.dir\Debug\\" /Fd"cmTC_73938.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  cmTC_73938.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_73938.exe
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_26f94.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27026.1 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  CMakeCCompilerABI.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_26f94.dir\Debug\\" /Fd"cmTC_26f94.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "I:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCCompilerABI.c"
+  
+  cmTC_26f94.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_26f94.exe
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_04384.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27026.1 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  feature_tests.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_04384.dir\Debug\\" /Fd"cmTC_04384.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\feature_tests.c"
+  
+  cmTC_04384.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_04384.exe
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
+Determining if the CXX compiler works passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_49891.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27026.1 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  testCXXCompiler.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_49891.dir\Debug\\" /Fd"cmTC_49891.dir\Debug\vc141.pdb" /Gd /TP /errorReport:queue "I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  cmTC_49891.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_49891.exe
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_f8858.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27026.1 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  CMakeCXXCompilerABI.cpp
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f8858.dir\Debug\\" /Fd"cmTC_f8858.dir\Debug\vc141.pdb" /Gd /TP /errorReport:queue "I:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCXXCompilerABI.cpp"
+  
+  cmTC_f8858.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_f8858.exe
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_a556b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27026.1 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  feature_tests.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a556b.dir\Debug\\" /Fd"cmTC_a556b.dir\Debug\vc141.pdb" /Gd /TP /errorReport:queue "I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\feature_tests.cxx"
+  
+  cmTC_a556b.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_a556b.exe
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_df778.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_df778.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_df778.exe
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_2e67e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_2e67e.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_2e67e.exe
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_4b8be.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_4b8be.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_4b8be.exe
+
+
+Determining size of long passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_886e1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  SIZEOF_LONG.c
+  cmTC_886e1.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_886e1.exe
+
+
+Determining size of long long passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_73f35.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  SIZEOF_LONG_LONG.c
+  cmTC_73f35.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_73f35.exe
+
+
+Performing C++ SOURCE FILE Test HAVE_STD_CXX11 succeeded with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_b5fff.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.cxx
+  cmTC_b5fff.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_b5fff.exe
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test HAVE_INLINE succeeded with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_968e0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+  cmTC_968e0.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_968e0.exe
+
+Source file was:
+inline void foo(void) { }
+                             int main() {return 0;}
+Performing C SOURCE FILE Test HAVE_STRUCT_TIMESPEC succeeded with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_3daea.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+  cmTC_3daea.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_3daea.exe
+
+Source file was:
+
+#include <time.h>
+
+int main()
+{
+   (void)sizeof(((struct timespec *)0)->tv_sec);
+   return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_C99_BOOL succeeded with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_c97d9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): warning C4100: argv: ­ҐЁбЇ®«м§®ў ­­л© д®а¬ «м­л© Ї а ¬Ґва [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_c97d9.vcxproj]
+  cmTC_c97d9.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_c97d9.exe
+
+Source file was:
+int main(int argc, char *argv[])
+ {
+     volatile _Bool ret;
+     ret = (argc > 1) ? 1 : 0;
+     return ret ? -1 : 0;
+ }
+Determining if the include file stdbool.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_b2d9c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_b2d9c.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_b2d9c.exe
+
+
+Determining if the include file malloc.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_3ae35.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_3ae35.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_3ae35.exe
+
+
+Determining if the include file intrin.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_b9670.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_b9670.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_b9670.exe
+
+
+Determining if the include file fenv.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_df127.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_df127.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_df127.exe
+
+
+Determining if the include file float.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_68889.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_68889.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_68889.exe
+
+
+Determining if the include file guiddef.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_39993.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_39993.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_39993.exe
+
+
+Performing C SOURCE FILE Test HAVE_CPUID_INTRINSIC succeeded with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_2f44d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+  cmTC_2f44d.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_2f44d.exe
+
+Source file was:
+#include <intrin.h>
+        int main()
+        {
+            int regs[4];
+            __cpuid(regs, 0);
+            return regs[0];
+        }
+Performing C SOURCE FILE Test HAVE_BITSCANFORWARD64_INTRINSIC succeeded with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_5bac1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+  cmTC_5bac1.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_5bac1.exe
+
+Source file was:
+#include <intrin.h>
+        int main()
+        {
+            unsigned long idx = 0;
+            _BitScanForward64(&idx, 1);
+            return idx;
+        }
+Performing C SOURCE FILE Test HAVE_BITSCANFORWARD_INTRINSIC succeeded with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_31c5b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+  cmTC_31c5b.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_31c5b.exe
+
+Source file was:
+#include <intrin.h>
+        int main()
+        {
+            unsigned long idx = 0;
+            _BitScanForward(&idx, 1);
+            return idx;
+        }
+Determining if the _aligned_malloc exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_31fd3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+  cmTC_31fd3.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_31fd3.exe
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _aligned_malloc
+  return ((int*)(&_aligned_malloc))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the lrintf exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_efaa2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+  cmTC_efaa2.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_efaa2.exe
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef lrintf
+  return ((int*)(&lrintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the modff exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_31f9b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+  cmTC_31f9b.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_31f9b.exe
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef modff
+  return ((int*)(&modff))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the log2f exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_724d1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+  cmTC_724d1.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_724d1.exe
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef log2f
+  return ((int*)(&log2f))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the cbrtf exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_c3196.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+  cmTC_c3196.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_c3196.exe
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef cbrtf
+  return ((int*)(&cbrtf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the _controlfp exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_2c01c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+  cmTC_2c01c.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_2c01c.exe
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <float.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _controlfp
+  return ((int*)(&_controlfp))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function stat exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_1be1e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckFunctionExists.c
+  cmTC_1be1e.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_1be1e.exe
+
+
+Determining if the function strtof exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_8f1d7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckFunctionExists.c
+  cmTC_8f1d7.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_8f1d7.exe
+
+
+Determining if the function _stricmp exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_d8a09.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckFunctionExists.c
+  cmTC_d8a09.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_d8a09.exe
+
+
+Determining if the function _strnicmp exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_df164.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckFunctionExists.c
+  cmTC_df164.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_df164.exe
+
+
+Determining if the strnlen exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_b36a1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+  cmTC_b36a1.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_b36a1.exe
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strnlen
+  return ((int*)(&strnlen))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the snprintf exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_d4eba.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+  cmTC_d4eba.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_d4eba.exe
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef snprintf
+  return ((int*)(&snprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the isfinite exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_3c91f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+  cmTC_3c91f.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_3c91f.exe
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef isfinite
+  return ((int*)(&isfinite))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the isnan exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_8602c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+  cmTC_8602c.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_8602c.exe
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef isnan
+  return ((int*)(&isnan))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the include file windows.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_a870b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_a870b.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_a870b.exe
+
+
+Determining if the include file xmmintrin.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_1fcfe.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_1fcfe.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_1fcfe.exe
+
+
+Determining if the include file emmintrin.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_b0775.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_b0775.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_b0775.exe
+
+
+Determining if the include file pmmintrin.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_16df9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_16df9.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_16df9.exe
+
+
+Determining if the include file smmintrin.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_4b644.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_4b644.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_4b644.exe
+
+
+Determining if files windows.h;mmsystem.h exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_4c4fe.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  HAVE_MMSYSTEM_H.c
+  cmTC_4c4fe.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_4c4fe.exe
+
+
+Determining if the include file mmdeviceapi.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_f5cf6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_f5cf6.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_f5cf6.exe
+
+
+Determining if files inttypes.h exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_fe751.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  INCLUDE_INTTYPES_H.c
+  cmTC_fe751.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_fe751.exe
+
+
+Determining if files stdint.h exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_01393.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  INCLUDE_STDINT_H.c
+  cmTC_01393.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_01393.exe
+
+
+Determining if files sys/types.h exist passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_29315.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  INCLUDE_SYS_TYPES_H.c
+  cmTC_29315.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_29315.exe
+
+
+Performing C SOURCE FILE Test HAVE_WIN32_CC succeeded with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_21c82.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(3): warning C4100: argv: ­ҐЁбЇ®«м§®ў ­­л© д®а¬ «м­л© Ї а ¬Ґва [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_21c82.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(3): warning C4100: argc: ­ҐЁбЇ®«м§®ў ­­л© д®а¬ «м­л© Ї а ¬Ґва [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_21c82.vcxproj]
+  cmTC_21c82.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_21c82.exe
+
+Source file was:
+
+    #include <windows.h>
+    int main(int argc, char **argv) { }
+Performing C SOURCE FILE Test HAVE_XINPUT_H succeeded with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_e01e3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(4): warning C4100: argv: ­ҐЁбЇ®«м§®ў ­­л© д®а¬ «м­л© Ї а ¬Ґва [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_e01e3.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(4): warning C4100: argc: ­ҐЁбЇ®«м§®ў ­­л© д®а¬ «м­л© Ї а ¬Ґва [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_e01e3.vcxproj]
+  cmTC_e01e3.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_e01e3.exe
+
+Source file was:
+
+        #include <windows.h>
+        #include <xinput.h>
+        int main(int argc, char **argv) { }
+Determining if the include file d3d9.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_841e3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_841e3.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_841e3.exe
+
+
+Determining if the include file d3d11_1.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_6029f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d11.h(3306): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d11.h(3311): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d11.h(3403): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d11.h(3759): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d11.h(3764): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d11.h(3823): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d11.h(4328): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d11.h(4656): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d11.h(10374): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d11.h(11229): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d11.h(11394): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d11.h(11566): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d10.h(2735): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d10.h(2740): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d10.h(2809): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d10.h(2960): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d10.h(2965): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d10.h(3024): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d10.h(3216): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d3d10_1.h(329): warning C4201: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: бвагЄвга  (®ЎкҐ¤Ё­Ґ­ЁҐ) ЎҐ§ Ё¬Ґ­Ё [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_6029f.vcxproj]
+  cmTC_6029f.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_6029f.exe
+
+
+Determining if the include file ddraw.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_c876a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_c876a.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_c876a.exe
+
+
+Determining if the include file dsound.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_87b81.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_87b81.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_87b81.exe
+
+
+Determining if the include file dinput.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_49fe3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  cmTC_49fe3.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_49fe3.exe
+
+
+Determining if the include file audioclient.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_b20a4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_b20a4.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_b20a4.exe
+
+
+Determining if the include file dxgi.h exists passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_e37a6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+  cmTC_e37a6.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_e37a6.exe
+
+

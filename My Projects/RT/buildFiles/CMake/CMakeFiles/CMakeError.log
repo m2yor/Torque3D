@@ -1,0 +1,577 @@
+Performing C SOURCE FILE Test HAVE_STD_C11 failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_114ee.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+cl : Є®¬ ­¤­ п бва®Є  warning D9002: Їа®ЇгбЄ ­ҐЁ§ўҐбв­®Ј® Ї а ¬Ґва  "-std=c11" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_114ee.vcxproj]
+  src.c
+  cmTC_114ee.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_114ee.exe
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test HAVE_STD_C99 failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_ba126.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+cl : Є®¬ ­¤­ п бва®Є  warning D9002: Їа®ЇгбЄ ­ҐЁ§ўҐбв­®Ј® Ї а ¬Ґва  "-std=c99" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_ba126.vcxproj]
+  src.c
+  cmTC_ba126.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_ba126.exe
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test HAVE_RESTRICT failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_22d6c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): error C2061: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : Ё¤Ґ­вЁдЁЄ в®а "foo" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_22d6c.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): error C2059: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : ; [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_22d6c.vcxproj]
+
+Source file was:
+int *restrict foo;
+                             int main() {return 0;}
+Performing C SOURCE FILE Test HAVE_LIBATOMIC failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_affc8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: stdatomic.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_affc8.vcxproj]
+
+Source file was:
+#include <stdatomic.h>
+int _Atomic foo = ATOMIC_VAR_INIT(0);
+int main()
+{
+    return atomic_fetch_add(&foo, 2);
+}
+Determining if the function __android_log_print exists in the log failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_44e65.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckFunctionExists.c
+LINK : fatal error LNK1104: не удается открыть файл "log.lib" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_44e65.vcxproj]
+
+
+Performing C SOURCE FILE Test HAVE_C11_STATIC_ASSERT failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_78be9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(3): warning C4013: _Static_assert: ­Ґв ®ЇаҐ¤Ґ«Ґ­Ёп; ЇаҐ¤Ї®« Ј Ґвбп "extern" б ў®§ўа в®¬ вЁЇ  "int" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_78be9.vcxproj]
+src.obj : error LNK2019: ссылка на неразрешенный внешний символ _Static_assert в функции main [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_78be9.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_78be9.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_78be9.vcxproj]
+
+Source file was:
+int main()
+ {
+     _Static_assert(sizeof(int) == sizeof(int), "What");
+     return 0;
+ }
+Performing C SOURCE FILE Test HAVE_C11_ALIGNAS failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_9d3c1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): error C2143: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : ®вбгвбвўЁҐ ")" ЇҐаҐ¤ "Є®­бв ­в " [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_9d3c1.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): error C2143: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : ®вбгвбвўЁҐ "{" ЇҐаҐ¤ "Є®­бв ­в " [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_9d3c1.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): error C2059: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : Є®­бв ­в  [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_9d3c1.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): error C2059: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : ) [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_9d3c1.vcxproj]
+
+Source file was:
+_Alignas(16) int foo;
+ int main()
+ {
+     return 0;
+ }
+Performing C SOURCE FILE Test HAVE_C11_ATOMIC failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_7386b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: stdatomic.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_7386b.vcxproj]
+
+Source file was:
+#include <stdatomic.h>
+ int _Atomic foo = ATOMIC_VAR_INIT(0);
+ int main()
+ {
+     atomic_fetch_add(&foo, 2);
+     return 0;
+ }
+Performing C SOURCE FILE Test HAVE___BUILTIN_ASSUME_ALIGNED failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_1c815.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(5): warning C4013: __builtin_assume_aligned: ­Ґв ®ЇаҐ¤Ґ«Ґ­Ёп; ЇаҐ¤Ї®« Ј Ґвбп "extern" б ў®§ўа в®¬ вЁЇ  "int" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_1c815.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(5): warning C4047: =: "float *" ®в«Ёз Ґвбп Ї® га®ў­п¬ Є®бўҐ­­®Ј® ®Ўа йҐ­Ёп ®в "int" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_1c815.vcxproj]
+i:\git\t3d\torque3d\my projects\rt\buildfiles\cmake\cmakefiles\cmaketmp\src.c(5): warning C4700: ЁбЇ®«м§®ў ­  ­ҐЁ­ЁжЁ «Ё§Ёа®ў ­­ п «®Є «м­ п ЇҐаҐ¬Ґ­­ п "ptr" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_1c815.vcxproj]
+src.obj : error LNK2019: ссылка на неразрешенный внешний символ __builtin_assume_aligned в функции main [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_1c815.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_1c815.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_1c815.vcxproj]
+
+Source file was:
+
+int main()
+{
+    float *ptr;
+    ptr = __builtin_assume_aligned(ptr, 16);
+    return 0;
+}
+Performing C SOURCE FILE Test HAVE_MSSE_SWITCH failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_4f8d7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+cl : Є®¬ ­¤­ п бва®Є  warning D9002: Їа®ЇгбЄ ­ҐЁ§ўҐбв­®Ј® Ї а ¬Ґва  "-msse" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_4f8d7.vcxproj]
+  src.c
+  cmTC_4f8d7.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_4f8d7.exe
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test HAVE_MSSE2_SWITCH failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_eb141.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+cl : Є®¬ ­¤­ п бва®Є  warning D9002: Їа®ЇгбЄ ­ҐЁ§ўҐбв­®Ј® Ї а ¬Ґва  "-msse2" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_eb141.vcxproj]
+  src.c
+  cmTC_eb141.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_eb141.exe
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test HAVE_MSSE3_SWITCH failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_af540.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+cl : Є®¬ ­¤­ п бва®Є  warning D9002: Їа®ЇгбЄ ­ҐЁ§ўҐбв­®Ј® Ї а ¬Ґва  "-msse3" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_af540.vcxproj]
+  src.c
+  cmTC_af540.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_af540.exe
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test HAVE_MSSE4_1_SWITCH failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_423c5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+cl : Є®¬ ­¤­ п бва®Є  warning D9002: Їа®ЇгбЄ ­ҐЁ§ўҐбв­®Ј® Ї а ¬Ґва  "-msse4.1" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_423c5.vcxproj]
+  src.c
+  cmTC_423c5.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_423c5.exe
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test HAVE_MFPU_NEON_SWITCH failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_7c132.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+cl : Є®¬ ­¤­ п бва®Є  warning D9002: Їа®ЇгбЄ ­ҐЁ§ўҐбв­®Ј® Ї а ¬Ґва  "-mfpu=neon" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_7c132.vcxproj]
+  src.c
+  cmTC_7c132.vcxproj -> I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_7c132.exe
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test HAVE_GCC_FORMAT failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_15c2b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): error C2061: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : Ё¤Ґ­вЁдЁЄ в®а "__attribute__" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_15c2b.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): error C2059: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : ; [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_15c2b.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): error C2059: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : Є®­бв ­в  [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_15c2b.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): warning C4131: format: ЁбЇ®«м§гҐвбп ¤ҐЄ« а в®а бв а®Ј® бвЁ«п [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_15c2b.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): warning C4431: ®вбгвбвўгҐв бЇҐжЁдЁЄ в®а вЁЇ  - ЇаҐ¤Ї®« Ј Ґвбп int. ЏаЁ¬Ґз ­ЁҐ. C Ў®«ҐҐ ­Ґ Ї®¤¤Ґа¦Ёў Ґв int Ї® г¬®«з ­Ёо [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_15c2b.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(1): warning C4218: ­Ґбв ­¤ ав­®Ґ а биЁаҐ­ЁҐ: ­Ґ®Ўе®¤Ё¬® гЄ § вм Ї® Єа ©­Ґ© ¬ҐаҐ Є« бб еа ­Ґ­Ёп Ё«Ё вЁЇ [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_15c2b.vcxproj]
+
+Source file was:
+int foo(const char *str, ...) __attribute__((format(printf, 1, 2)));
+                         int main() {return 0;}
+Determining if the include file stdalign.h exists failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_af82a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: stdalign.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_af82a.vcxproj]
+
+
+Determining if the include file dirent.h exists failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_eeade.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: dirent.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_eeade.vcxproj]
+
+
+Determining if the include file strings.h exists failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_dfb61.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: strings.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_dfb61.vcxproj]
+
+
+Determining if the include file cpuid.h exists failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_cb61a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: cpuid.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_cb61a.vcxproj]
+
+
+Determining if the include file sys/sysconf.h exists failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_409c7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: sys/sysconf.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_409c7.vcxproj]
+
+
+Determining if the include file ieeefp.h exists failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_b6db9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: ieeefp.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_b6db9.vcxproj]
+
+
+Determining if the function pow exists in the m failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_0e0c7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckFunctionExists.c
+I:\Program Files\CMake\share\cmake-3.14\Modules\CheckFunctionExists.c(7): warning C4391: char pow(void): ­ҐЇа ўЁ«м­л© ў®§ўа й Ґ¬л© вЁЇ ¤«п Ї®¤бв ў«пҐ¬®© дг­ЄжЁЁ; ваҐЎгҐвбп "double" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_0e0c7.vcxproj]
+I:\Program Files\CMake\share\cmake-3.14\Modules\CheckFunctionExists.c(7): warning C4392: char pow(void): ­ҐЇа ўЁ«м­л© ­ Ў®а  аЈг¬Ґ­в®ў ¤«п Ї®¤бв ў«пҐ¬®© дг­ЄжЁЁ; ваҐЎгҐвбп  аЈг¬Ґ­в®ў: "2" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_0e0c7.vcxproj]
+I:\Program Files\CMake\share\cmake-3.14\Modules\CheckFunctionExists.c(17): error C2168: pow: б«ЁиЄ®¬ ¬ «® д ЄвЁзҐбЄЁе Ї а ¬Ґва®ў ¤«п Ї®¤бв ў«пҐ¬®© дг­ЄжЁЁ [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_0e0c7.vcxproj]
+
+
+Determining if the function dlopen exists in the dl failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_fbdc0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckFunctionExists.c
+LINK : fatal error LNK1104: не удается открыть файл "dl.lib" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_fbdc0.vcxproj]
+
+
+Determining if the include file dlfcn.h exists failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_d0112.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: dlfcn.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_d0112.vcxproj]
+
+
+Determining if the sysconf exist failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_5856c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: unistd.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_5856c.vcxproj]
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <unistd.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef sysconf
+  return ((int*)(&sysconf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the aligned_alloc exist failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_d53c7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: aligned_alloc: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_d53c7.vcxproj]
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef aligned_alloc
+  return ((int*)(&aligned_alloc))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the posix_memalign exist failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_5c519.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: posix_memalign: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_5c519.vcxproj]
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef posix_memalign
+  return ((int*)(&posix_memalign))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the proc_pidpath exist failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_e2dc8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: libproc.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_e2dc8.vcxproj]
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <libproc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef proc_pidpath
+  return ((int*)(&proc_pidpath))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the __control87_2 exist failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_315df.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: __control87_2: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_315df.vcxproj]
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <float.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef __control87_2
+  return ((int*)(&__control87_2))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function strcasecmp exists failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_a14b1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: ссылка на неразрешенный внешний символ strcasecmp в функции main [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_a14b1.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_a14b1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_a14b1.vcxproj]
+
+
+Determining if the function strncasecmp exists failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_b1ea3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckFunctionExists.c
+CheckFunctionExists.obj : error LNK2019: ссылка на неразрешенный внешний символ strncasecmp в функции main [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_b1ea3.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\Debug\cmTC_b1ea3.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_b1ea3.vcxproj]
+
+
+Determining if the getopt exist failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_ff765.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: unistd.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_ff765.vcxproj]
+
+File I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <unistd.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getopt
+  return ((int*)(&getopt))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the include file arm_neon.h exists failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_cbab0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+I:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\arm_neon.h(17): fatal error C1189: #error:  This header is specific to ARM targets [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_cbab0.vcxproj]
+
+
+Determining if files SLES/OpenSLES.h;SLES/OpenSLES_Android.h exist failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_acb1a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  HAVE_SLES_OPENSLES_ANDROID_H.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CheckIncludeFiles\HAVE_SLES_OPENSLES_ANDROID_H.c(2): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: SLES/OpenSLES.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_acb1a.vcxproj]
+
+Source:
+/* */
+#include <SLES/OpenSLES.h>
+#include <SLES/OpenSLES_Android.h>
+
+
+int main(void){return 0;}
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_73725.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckIncludeFile.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: pthread.h: No such file or directory, [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_73725.vcxproj]
+
+
+Performing C SOURCE FILE Test HAVE_XINPUT_GAMEPAD_EX failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_11db8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(4): error C2061: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : Ё¤Ґ­вЁдЁЄ в®а "x1" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_11db8.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(4): error C2059: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : ; [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_11db8.vcxproj]
+
+Source file was:
+
+        #include <windows.h>
+        #include <xinput.h>
+        XINPUT_GAMEPAD_EX x1;
+        int main(int argc, char **argv) { }
+Performing C SOURCE FILE Test HAVE_XINPUT_STATE_EX failed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/RT/buildFiles/CMake/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_99c5c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  src.c
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(4): error C2061: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : Ё¤Ґ­вЁдЁЄ в®а "s1" [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_99c5c.vcxproj]
+I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\src.c(4): error C2059: бЁ­в ЄбЁзҐбЄ п ®иЁЎЄ : ; [I:\git\T3D\Torque3D\My Projects\RT\buildFiles\CMake\CMakeFiles\CMakeTmp\cmTC_99c5c.vcxproj]
+
+Source file was:
+
+        #include <windows.h>
+        #include <xinput.h>
+        XINPUT_STATE_EX s1;
+        int main(int argc, char **argv) { }

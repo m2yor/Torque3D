@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+I:/Program Files/CMake/share/cmake-3.14/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+I:/Program Files/CMake/share/cmake-3.14/Modules/CMakeDependentOption.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CMakePackageConfigHelpers.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckCCompilerFlag.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckCSourceCompiles.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckCSourceRuns.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckFunctionExists.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFile.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFileCXX.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFiles.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckLibraryExists.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckStructHasMember.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckSymbolExists.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckTypeSize.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageHandleStandardArgs.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageMessage.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/FindPkgConfig.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/GNUInstallDirs.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/WriteBasicConfigVersionFile.cmake
+I:/git/T3D/Torque3D/Engine/lib/sdl/CMakeLists.txt
+I:/git/T3D/Torque3D/Engine/lib/sdl/cmake/macros.cmake
+I:/git/T3D/Torque3D/Engine/lib/sdl/cmake/sdlchecks.cmake
+I:/git/T3D/Torque3D/Engine/lib/sdl/cmake_uninstall.cmake.in
+I:/git/T3D/Torque3D/Engine/lib/sdl/include/SDL_config.h.cmake

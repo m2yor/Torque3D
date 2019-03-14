@@ -1,0 +1,36 @@
+# CMake generation dependency list for this directory.
+I:/Program Files/CMake/share/cmake-3.14/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckCCompilerFlag.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckCSourceCompiles.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckCXXCompilerFlag.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckCXXSourceCompiles.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckFunctionExists.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFile.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFileCXX.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFiles.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckLibraryExists.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckStructHasMember.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckSymbolExists.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckTypeSize.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/FindGit.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageHandleStandardArgs.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageMessage.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/FindThreads.cmake
+I:/Program Files/CMake/share/cmake-3.14/Modules/GNUInstallDirs.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/CMakeLists.txt
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/CheckFileOffsetBits.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/CheckSharedFunctionExists.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/FindALSA.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/FindAudioIO.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/FindDSound.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/FindJACK.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/FindOSS.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/FindPortAudio.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/FindPulseAudio.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/FindQSA.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/FindSDL2.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/FindSoundIO.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/cmake/FindWindowsSDK.cmake
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/config.h.in
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/openal.pc.in
+I:/git/T3D/Torque3D/Engine/lib/openal-soft/version.h.in
