@@ -1,0 +1,22 @@
+Determining if the waveOutOpen exist in winmm passed with the following output:
+Change Dir: I:/git/T3D/Torque3D/My Projects/Bob/buildFiles/CMake/Tools/CMake/openal-soft/CMakeFiles/CMakeTmp
+
+Run Build Command(s):I:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe cmTC_30d41.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  CheckSymbolExists.c
+  cmTC_30d41.vcxproj -> I:\git\T3D\Torque3D\My Projects\Bob\buildFiles\CMake\Tools\CMake\openal-soft\CMakeFiles\CMakeTmp\Debug\cmTC_30d41.exe
+
+File I:/git/T3D/Torque3D/My Projects/Bob/buildFiles/CMake/Tools/CMake/openal-soft/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <windows.h>
+#include <mmsystem.h>
+
+void cmakeRequireSymbol(int dummy,...){(void)dummy;}
+int main()
+{
+  cmakeRequireSymbol(0,&waveOutOpen);
+  return 0;
+}
+

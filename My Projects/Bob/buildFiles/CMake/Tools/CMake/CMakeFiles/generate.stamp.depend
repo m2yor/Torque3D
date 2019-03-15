@@ -1,0 +1,33 @@
+# CMake generation dependency list for this directory.
+I:/Program Files/CMake/share/cmake-3.14/Modules/CheckIncludeFiles.cmake
+I:/git/T3D/Torque3D/Engine/lib/libogg/include/ogg/config_types.h.in
+I:/git/T3D/Torque3D/Templates/BaseGame/game/main.cs.in
+I:/git/T3D/Torque3D/Tools/CMake/CMakeLists.txt
+I:/git/T3D/Torque3D/Tools/CMake/basics.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/collada.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/convexDecomp.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/glad.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/libbullet.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/libogg.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/libtheora.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/libvorbis.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/ljpeg.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/lpng.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/nativeFileDialogs.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/opcode.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/pcre.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/recast.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/squish.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/tinyxml.cmake
+I:/git/T3D/Torque3D/Tools/CMake/libraries/zlib.cmake
+I:/git/T3D/Torque3D/Tools/CMake/modules/module_afx.cmake
+I:/git/T3D/Torque3D/Tools/CMake/modules/module_bullet.cmake
+I:/git/T3D/Torque3D/Tools/CMake/modules/module_hydra.cmake
+I:/git/T3D/Torque3D/Tools/CMake/modules/module_navigation.cmake
+I:/git/T3D/Torque3D/Tools/CMake/modules/module_oculusVR.cmake
+I:/git/T3D/Torque3D/Tools/CMake/modules/module_openvr.cmake
+I:/git/T3D/Torque3D/Tools/CMake/modules/module_physx3.cmake
+I:/git/T3D/Torque3D/Tools/CMake/modules/module_sqlite.cmake
+I:/git/T3D/Torque3D/Tools/CMake/modules/module_testing.cmake
+I:/git/T3D/Torque3D/Tools/CMake/torque3d.cmake
+I:/git/T3D/Torque3D/Tools/CMake/torqueConfig.h.in
