@@ -67,10 +67,8 @@ local.properties
 *.vspscc
 .builds
 *.dotCover
-*.dll
 *.lib
 *.exp
-*.exe
 
 
 ## TODO: If you have NuGet Package Restore enabled, uncomment this
@@ -182,3 +180,4 @@ console.log
 Project Manager.exe
 projects.xml
 Qt*.dll
+My Projects/Bob/buildFiles
